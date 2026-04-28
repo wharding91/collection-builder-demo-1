@@ -8,14 +8,12 @@
 # URL VARIABLES [optional if using GitHub Pages!]
 #
 # url is site domain, full URL to the production location of your collection
-# on GitHub Pages follows the pattern username.github.io
-#url: https://wharding91.github.io 
+url: https://wharding91.github.io 
 # baseurl is path to location on the domain if necessary e.g. /digital/hjccc
 # on GitHub Pages it is your github repository's name prefixed with a /
-#baseurl: /collectionbuilder-demo-1 
+baseurl: /collectionbuilder-demo 
 # location of code, the full url to your github repository
-source-code: https://github.com/wharding91/collectionbuilder-demo-1
-
+source-code: https://github.com/wharding91/collectionbuilder-demo
 ##########
 # SITE SETTINGS
 #
@@ -34,7 +32,7 @@ author: WHarding
 #
 # Set the metadata for your collection (the name of the csv file in your _data directory that describes the objects in your collection) 
 # Use the filename of your CSV **without** the ".csv" extension! E.g. _data/demo-metadata.csv --> "demo-metadata"
-metadata: psychiana
+metadata: psychiana_cbdemo_gh - Sheet1
 
 ##########
 # Site/Organization Branding 
